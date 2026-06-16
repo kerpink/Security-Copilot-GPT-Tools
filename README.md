@@ -1,6 +1,6 @@
 # Security Copilot — GPT Tools
 
-A library of GPT Tools for Microsoft Security Copilot agent builder. Each GPT Tool is an *analyst task* — it investigates, scores, correlates, drafts, documents, or reports.
+A library of GPT Tools for Microsoft Security Copilot agent builder. 
 
 ---
 
